@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alberto-ruiz/static/css/main.94680304.css",
-    "main.js": "/alberto-ruiz/static/js/main.66f8b6ba.js",
+    "main.css": "/alberto-ruiz/static/css/main.58e1b178.css",
+    "main.js": "/alberto-ruiz/static/js/main.da563a42.js",
     "static/js/787.a2059655.chunk.js": "/alberto-ruiz/static/js/787.a2059655.chunk.js",
     "index.html": "/alberto-ruiz/index.html",
-    "main.94680304.css.map": "/alberto-ruiz/static/css/main.94680304.css.map",
-    "main.66f8b6ba.js.map": "/alberto-ruiz/static/js/main.66f8b6ba.js.map",
+    "main.58e1b178.css.map": "/alberto-ruiz/static/css/main.58e1b178.css.map",
+    "main.da563a42.js.map": "/alberto-ruiz/static/js/main.da563a42.js.map",
     "787.a2059655.chunk.js.map": "/alberto-ruiz/static/js/787.a2059655.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94680304.css",
-    "static/js/main.66f8b6ba.js"
+    "static/css/main.58e1b178.css",
+    "static/js/main.da563a42.js"
   ]
 }
